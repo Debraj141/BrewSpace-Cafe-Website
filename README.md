@@ -3,8 +3,9 @@
 This project was developed as part of our CSE326 Internet Programming group project.
 
 - **Shashwat Gautam**
-- **Parth Kukreti**
 - **Debraj Paul**
+- **Parth Kukreti**
+
 
 ## Live Website
 
