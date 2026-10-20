@@ -1,8 +1,9 @@
 ## Project Team
 
 - Shashwat Gautam
-- Parth Kukreti
 - Debraj Paul
+- Parth Kukreti
+
 
 # BrewSpace --- Smart Café Website
 
